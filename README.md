@@ -22,3 +22,8 @@ Develop an end-to-end NLP pipeline to analyze customer reviews for sentiment cla
   * Traditional models: Logistic Regression, Naïve Bayes
   * Deep learning models: LSTMs, Transformers (BERT)
 * Evaluate models using accuracy, F1-score, and confusion matrix
+
+# Output: 
+![OUTPUT](1.png)
+![OUTPUT](2.png)
+![OUTPUT](3.png)
